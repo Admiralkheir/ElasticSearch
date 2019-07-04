@@ -1,0 +1,13 @@
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\ElasticSearch.Data.Contracts.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\ElasticSearch.Data.Contracts.pdb
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\Elasticsearch.Net.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\System.Buffers.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\Elasticsearch.Net.xml
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\System.Buffers.xml
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\obj\Debug\ElasticSearch.Data.Contracts.csprojAssemblyReference.cache
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\obj\Debug\ElasticSearch.Data.Contracts.csproj.CoreCompileInputs.cache
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\obj\Debug\ElasticSearch.Data.Contracts.csproj.CopyComplete
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\obj\Debug\ElasticSearch.Data.Contracts.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Contracts\obj\Debug\ElasticSearch.Data.Contracts.pdb

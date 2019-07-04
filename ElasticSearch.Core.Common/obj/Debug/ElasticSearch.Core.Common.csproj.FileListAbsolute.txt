@@ -1,0 +1,15 @@
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\ElasticSearch.Core.Common.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\ElasticSearch.Core.Common.pdb
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\Elasticsearch.Net.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\Nest.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\System.Buffers.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\Elasticsearch.Net.xml
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\Nest.xml
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\System.Buffers.xml
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\obj\Debug\ElasticSearch.Core.Common.csprojAssemblyReference.cache
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\obj\Debug\ElasticSearch.Core.Common.csproj.CoreCompileInputs.cache
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\obj\Debug\ElasticSearch.Core.Common.csproj.CopyComplete
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\obj\Debug\ElasticSearch.Core.Common.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Core.Common\obj\Debug\ElasticSearch.Core.Common.pdb

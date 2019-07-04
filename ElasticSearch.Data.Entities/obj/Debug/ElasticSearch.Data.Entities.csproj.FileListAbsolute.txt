@@ -1,0 +1,6 @@
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Entities\bin\Debug\ElasticSearch.Data.Entities.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Entities\bin\Debug\ElasticSearch.Data.Entities.pdb
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Entities\obj\Debug\ElasticSearch.Data.Entities.csprojAssemblyReference.cache
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Entities\obj\Debug\ElasticSearch.Data.Entities.csproj.CoreCompileInputs.cache
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Entities\obj\Debug\ElasticSearch.Data.Entities.dll
+C:\ElasticDeneme\ElasticSearch\ElasticSearch.Data.Entities\obj\Debug\ElasticSearch.Data.Entities.pdb
