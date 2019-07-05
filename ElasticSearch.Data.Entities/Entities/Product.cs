@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ElasticSearch.Data.Entities.Entities
 {
+    //indexlencek entity
     public class Product
     {
         public int Id { get; set; }

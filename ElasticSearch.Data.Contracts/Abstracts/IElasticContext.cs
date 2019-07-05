@@ -9,6 +9,7 @@ namespace ElasticSearch.Data.Contracts.Abstracts
 {
     public interface IElasticContext
     {
+        //elastic üzerinde bir adet index yaratmak için oluşturulan bir mesaj imzası
         IndexResponseDTO CreateIndex<T>(string indexName, string aliasName) where T : class;
     }
 }
